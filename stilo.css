@@ -1,0 +1,24 @@
+div {border: burlywood 5px dotted;
+margin-top:  6mm;
+margin-bottom: 6mm;}
+p {text-align: justify;
+background-color: cornsilk;
+margin: 3mm;
+padding-top: 2mm;
+padding-bottom: 2mm;
+padding-right: 6mm;
+padding-left: 6mm;
+text-indent: 1.5cm;
+}
+#bal {width: 70%;
+margin: 0 auto;
+}
+.piros {border-right: double 3mm darkred;}
+.kék {padding-bottom: 1cm;
+border-left: dashed 1mm blueviolet;
+border-bottom: dashed blue 2mm; }
+.kék span {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bolder;
+color: dodgerblue;}
+.piros span {font-variant: small-caps;
+color: crimson;}
